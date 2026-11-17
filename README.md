@@ -29,4 +29,8 @@
 
 ---
 
+<p align="center">
+  <a href="https://buymeacoffee.com/nerixlabs"><img src="https://img.buymeacoffee.com/button-api/?text=Support%20Nerix%20Labs&emoji=&slug=nerixlabs&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Support Nerix Labs" height="40"></a>
+</p>
+
 <p align="center"><sub>Have an idea or found a bug? Open an issue on the relevant project.</sub></p>
